@@ -37,5 +37,5 @@ These functions can technically be used on any HTML element, but they are recomm
 <code>changeXpos</code> and <code>changeYpos</code> change the X position or Y position of the gamepiece positively by the input of the function.
 <br/>
 <br/>
-<a href="https://domgame.netlify.app/demogame.zip">Download an sample program that uses domgame.js</a>
+<a href="https://domgame.netlify.app/demogame.zip">Download a sample program that uses domgame.js</a>
 <br/><a href="https://github.com/yikuansun/Scrolling-platformer-demo-with-domgame.js/raw/master/domgame%20platformer%20demo.zip">Download a sample side-scrolling platformer created with domgame.js</a>
