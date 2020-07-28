@@ -2,7 +2,7 @@
 A JS library for creating games using the HTML DOM.
 
 # Download
-<a download href="https://raw.githubusercontent.com/yikuansun/domgame.js/master/domgame.js">https://raw.githubusercontent.com/yikuansun/domgame.js/master/domgame.js</a>
+<a href="https://raw.githubusercontent.com/yikuansun/domgame.js/master/domgame.js" download>https://raw.githubusercontent.com/yikuansun/domgame.js/master/domgame.js</a>
 
 # Documentation
 
