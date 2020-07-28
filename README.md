@@ -35,4 +35,4 @@ These functions can technically be used on any HTML element, but they are recomm
 <br/>
 <br/>
 <a href="https://domgame.netlify.app/demogame.zip">Download an sample program that uses domgame.js</a>
-<br/><a href="https://github.com/yikuansun/Scrolling-platformer-demo-with-domgame.js/blob/master/domgame%20platformer%20demo.zip">Download a sample side-scrolling platformer created with domgame.js</a>
+<br/><a href="https://github.com/yikuansun/Scrolling-platformer-demo-with-domgame.js/raw/master/domgame%20platformer%20demo.zip">Download a sample side-scrolling platformer created with domgame.js</a>
