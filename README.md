@@ -32,5 +32,6 @@ Ex.: <code>if (player.rectCollision(bigsquare)) { player.setXpos(1) }</code>
 These functions can technically be used on any HTML element, but they are recommended to only be used with gamepieces created using domgame.js.
 <code>rectCollision</code> returns true or false, whereas <code>directionalCollision</code> returns a direction: top, right, bottom, left, and false, if there is no collision.
 <code>changeXpos</code> and <code>changeYpos</code> change the X position or Y position of the gamepiece positively by the input of the function.
-
+<br/>
+<br/>
 <a href="https://domgame.netlify.app/demogame.zip">Download an sample program that uses domgame.js</a>
