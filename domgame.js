@@ -88,8 +88,8 @@ HTMLElement.prototype.directionalCollision = function(otherobject) {
 	item2 = otherobject.getBoundingClientRect();
 	item1_bottom = item1.y + item1.height;
 	item2_bottom = item2.y + item2.height;
-	item1_right = item1.x + item1.height;
-	item2_right = item2.x + item2.height;
+	item1_right = item1.x + item1.width;
+	item2_right = item2.x + item2.width;
 
 	b_collision = item2_bottom - item1.y;
 	t_collision = item1_bottom - item2.y;
