@@ -33,9 +33,9 @@ directionalCollision(otherobject)
 </pre>
 Ex.: <code>if (player.rectCollision(bigsquare)) { player.setXpos(1) }</code>
 These functions can technically be used on any HTML element, but they are recommended to only be used with gamepieces created using domgame.js.
-<code>rectCollision</code> returns true or false, whereas <code>directionalCollision</code> returns a direction: top, right, bottom, left, and false, if there is no collision.
+<code>rectCollision</code> returns true or false, whereas <code>directionalCollision</code> returns a direction: top, right, bottom, left, and false, if there is no collision. 
+There is also an alternative set of collision scripts: <a href="https://github.com/yikuansun/Alternative-collision-script-for-domgame.js">https://github.com/yikuansun/Alternative-collision-script-for-domgame.js</a>.
 <code>changeXpos</code> and <code>changeYpos</code> change the X position or Y position of the gamepiece positively by the input of the function.
 <br/>
-The alternative collision script is recommended for more advanced programs: <a href="https://github.com/yikuansun/Alternative-collision-script-for-domgame.js">https://github.com/yikuansun/Alternative-collision-script-for-domgame.js</a>
 <br/>
 <br/><a href="https://github.com/yikuansun/Scrolling-platformer-demo-with-domgame.js/archive/master.zip">Download a sample side-scrolling platformer created with domgame.js</a>
