@@ -34,7 +34,7 @@ directionalCollision(otherobject)
 Ex.: <code>if (player.rectCollision(bigsquare)) { player.setXpos(1) }</code>
 These functions can technically be used on any HTML element, but they are recommended to only be used with gamepieces created using domgame.js.
 <code>rectCollision</code> returns true or false, whereas <code>directionalCollision</code> returns a direction: top, right, bottom, left, and false, if there is no collision. 
-There is also an alternative set of collision scripts: <a href="https://github.com/yikuansun/Alternative-collision-script-for-domgame.js">https://github.com/yikuansun/Alternative-collision-script-for-domgame.js</a>.
+There is also an alternate set of collision scripts: <a href="https://github.com/yikuansun/Alternative-collision-script-for-domgame.js">https://github.com/yikuansun/Alternative-collision-script-for-domgame.js</a>.
 <code>changeXpos</code> and <code>changeYpos</code> change the X position or Y position of the gamepiece positively by the input of the function.
 <br/>
 <br/>
