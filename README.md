@@ -36,6 +36,10 @@ These functions can technically be used on any HTML element, but they are recomm
 <code>rectCollision</code> returns true or false, whereas <code>directionalCollision</code> returns a direction: top, right, bottom, left, and false, if there is no collision. 
 There is also an alternate set of collision scripts: <a href="https://github.com/yikuansun/Alternative-collision-script-for-domgame.js">https://github.com/yikuansun/Alternative-collision-script-for-domgame.js</a>.
 <code>changeXpos</code> and <code>changeYpos</code> change the X position or Y position of the gamepiece positively by the input of the function.
+
+<h2>Add-on libraries</h2>
+<li><a href="https://github.com/yikuansun/Alternative-collision-script-for-domgame.js">Improved collision script</a></li>
+<li><a href="https://github.com/yikuansun/domgamerotatescale">Rotate, scale, and more functions</a></li>
 <br/>
 <br/>
 <br/><a href="https://github.com/yikuansun/Scrolling-platformer-demo-with-domgame.js/archive/master.zip">Download a sample side-scrolling platformer created with domgame.js</a>
